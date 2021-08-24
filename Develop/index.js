@@ -55,7 +55,7 @@ const questions = [
         type: 'checkbox',
         name: 'license',
         message: 'Type of License:',
-        choices: ['Apache 2.0', 'GPL', 'LGPL', 'MIT', 'MPL 2.0', 'BSD 3', 'BSD 2', 'CDDL 1.0', 'EPL 2.0']
+        choices: ['Apache 2.0', 'GPL', 'LGPL', 'MIT', 'MPL 2.0', 'BSD 3', 'BSD 2', 'CDDL 1.0', 'EPL 2.0', 'None']
     },
     {
         type: 'input',
