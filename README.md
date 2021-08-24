@@ -1,3 +1,5 @@
-# Professional README Generator Starter Code
+## Professional README Generator
 
-[How to create a Professional README](./readme-guide.md)
+Upon running the application, you answer a series of questions and it generates a REAME.md file populated with the information
+
+https://drive.google.com/file/d/1qg3VWHJ4VqE8HgM6szrxnGGsEr5_HWAj/view
